@@ -1,0 +1,55 @@
+
+bFrame timeYear="2014" timeDay="31" timeMonth="10" timeMs="802" timeMin="56" frameID="45752" timeHour="8" timeSec="46" nbMobiles="1">
+<Mobile mobileID="11" confidence="1.00" subType="0" type="PERSON">
+<TimeStart timeYear="2014" timeDay="31" timeMonth="10" timeMs="802" timeMin="56" frameID="45752" timeHour="8" timeSec="46" />
+<Track numParent="1">
+<ParentMobile mobileID="11" confidence="1.00" timeYear="2014" timeDay="31" timeMonth="10" timeMs="668" timeMin="56" frameID="45751" timeHour="8" timeSec="46" />
+</Track> 
+<Blob>
+<CameraViews>
+<Info2D ySpeed="0" timeDay="31" timeHour="8" yCenter="151" xSpeed="0" timeMonth="10" timeSec="46" timeMin="56" yCog="151" timeYear="2014" frameID="45752" width="50" nbMovPix="0" orientation="0" xCog="272" xCenter="272" camID="0" length="55" timeMs="802" />
+</CameraViews>
+<Info3D w3D="451" zSpeed="0" x="-441.443" ySpeed="0" y="-73.1318" h3D="1015.9" xSpeed="0" z="4853.25" l3D="338" orientation="0" />
+<Uncertainty3D m31="0" m21="0" m32="0" m11="0" m22="0" m33="0" m12="0" m23="0" m13="0" />
+<Properties>
+<Proper value="PERSON" name="Type" />
+</Properties>
+</Blob>
+</Mobile>
+</MobFrame>
+<MobFrame timeYear="2014" timeDay="31" timeMonth="10" timeMs="936" timeMin="56" frameID="45753" timeHour="8" timeSec="46" nbMobiles="1">
+<Mobile mobileID="11" confidence="1.00" subType="0" type="PERSON">
+<TimeStart timeYear="2014" timeDay="31" timeMonth="10" timeMs="936" timeMin="56" frameID="45753" timeHour="8" timeSec="46" />
+<Track numParent="1">
+<ParentMobile mobileID="11" confidence="1.00" timeYear="2014" timeDay="31" timeMonth="10" timeMs="802" timeMin="56" frameID="45752" timeHour="8" timeSec="46" />
+</Track> 
+<Blob>
+<CameraViews>
+<Info2D ySpeed="0" timeDay="31" timeHour="8" yCenter="154" xSpeed="0" timeMonth="10" timeSec="46" timeMin="56" yCog="154" timeYear="2014" frameID="45753" width="72" nbMovPix="0" orientation="0" xCog="267" xCenter="267" camID="0" length="61" timeMs="936" />
+</CameraViews>
+<Info3D w3D="495" zSpeed="0" x="-463.692" ySpeed="0" y="-47.8414" h3D="1106.58" xSpeed="0" z="4818.84" l3D="443" orientation="0" />
+<Uncertainty3D m31="0" m21="0" m32="0" m11="0" m22="0" m33="0" m12="0" m23="0" m13="0" />
+<Properties>
+<Proper value="PERSON" name="Type" />
+</Properties>
+</Blob>
+</Mobile>
+</MobFrame>
+<MobFrame timeYear="2014" timeDay="31" timeMonth="10" timeMs="70" timeMin="56" frameID="45754" timeHour="8" timeSec="47" nbMobiles="1">
+<Mobile mobileID="11" confidence="1.00" subType="0" type="PERSON">
+<TimeStart timeYear="2014" timeDay="31" timeMonth="10" timeMs="70" timeMin="56" frameID="45754" timeHour="8" timeSec="47" />
+<Track numParent="1">
+<ParentMobile mobileID="11" confidence="1.00" timeYear="2014" timeDay="31" timeMonth="10" timeMs="936" timeMin="56" frameID="45753" timeHour="8" timeSec="46" />
+</Track> 
+<Blob>
+<CameraViews>
+<Info2D ySpeed="0" timeDay="31" timeHour="8" yCenter="145" xSpeed="0" timeMonth="10" timeSec="47" timeMin="56" yCog="145" timeYear="2014" frameID="45754" width="58" nbMovPix="0" orientation="0" xCog="268" xCenter="268" camID="0" length="59" timeMs="70" />
+</CameraViews>
+<Info3D w3D="481" zSpeed="0" x="-457.736" ySpeed="0" y="-69.0184" h3D="1140.08" xSpeed="0" z="4846.43" l3D="419" orientation="0" />
+<Uncertainty3D m31="0" m21="0" m32="0" m11="0" m22="0" m33="0" m12="0" m23="0" m13="0" />
+<Properties>
+<Proper value="PERSON" name="Type" />
+</Properties>
+</Blob>
+</Mobile>
+</MobFrame>
